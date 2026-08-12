@@ -48,11 +48,12 @@ Each `.md` file contains:
 ## Usage
 
 ```bash
-# Clone the corpus
+# Clone the full corpus
 git clone https://github.com/RyanL1028/chinese-official-syllabus.git
 
-# Fetch raw text from any lesson
-curl -s https://raw.githubusercontent.com/RyanL1028/chinese-official-syllabus/main/Primary%203/3B/%E7%AC%AC%E4%BA%8C%E5%8D%95%E5%85%83/7.%20%E9%B9%BF%E8%A7%92%E5%92%8C%E9%B9%BF%E8%85%BF.md
+# Or fetch a single lesson via raw URL
+# Path pattern: Primary 3/{semester}/{unit}/{lesson}.md
+# (URL-encode any Chinese characters in the path)
 ```
 
 ## Stats
