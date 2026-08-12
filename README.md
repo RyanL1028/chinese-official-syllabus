@@ -63,4 +63,13 @@ curl -s https://raw.githubusercontent.com/RyanL1028/chinese-official-syllabus/ma
 
 ---
 
-The content in these files is from the official syllabus of the Chinese government and belongs to them. I am only responsible for converting them into markdown format for public use.
+## Disclaimer
+
+The texts in this repository are sourced from the official Chinese national curriculum (义务教育教科书·语文, PEP Edition, Ministry of Education of the People's Republic of China). All content, including the original texts, lesson titles, and curricular structure, belongs to the original copyright holders.
+
+- **My role**: I have only cleaned and formatted these publicly available educational texts into plain-text markdown for easier access. I do not claim any ownership over the original content.
+- **Purpose**: This repository exists solely for educational and research purposes — to support Chinese language learners, NLP researchers, and educational tool developers.
+- **No commercial use**: These files are not intended for commercial distribution or sale.
+- **No infringement intended**: This is a good-faith effort to make China's national curriculum more accessible to learners worldwide. If you are a rights holder and have concerns, please contact me and I will promptly remove the content.
+
+By using this repository, you acknowledge that the original texts remain the intellectual property of their respective owners.
