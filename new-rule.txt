@@ -4,6 +4,7 @@ e.g. '1S. "童第周是我国著名的生物学家，长期从事科学研究，
 '1E. "他出生在浙江省一个偏僻的山村里，小时候家里不富裕，只能一边帮家里做农活，一边跟父亲念点儿书。"'
 
 If it is the same sentence for a whole paragraph then 1S. and 1E will be the same
+Seperate the contents
 
 ---------------------------------------------------------------
 
