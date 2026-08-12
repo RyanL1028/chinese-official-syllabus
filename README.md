@@ -1,4 +1,4 @@
-# Chinese Primary School Reading Corpus (小学语文课文语料库)
+# （根据2022年版课程标准修订）义务教育教科书
 
 Open corpus of Chinese primary school reading texts from the PEP (人教版) Chinese language textbooks (义务教育教科书·语文). Clean, plain-text markdown — ready for NLP, language learning apps, and educational tools.
 
@@ -49,10 +49,10 @@ Each `.md` file contains:
 
 ```bash
 # Clone the corpus
-git clone https://github.com/RyanL1028/chinese-reading-corpus.git
+git clone https://github.com/RyanL1028/chinese-official-syllabus.git
 
 # Fetch raw text from any lesson
-curl -s https://raw.githubusercontent.com/RyanL1028/chinese-reading-corpus/main/Primary%203/3B/%E7%AC%AC%E4%BA%8C%E5%8D%95%E5%85%83/7.%20%E9%B9%BF%E8%A7%92%E5%92%8C%E9%B9%BF%E8%85%BF.md
+curl -s https://raw.githubusercontent.com/RyanL1028/chinese-official-syllabus/main/Primary%203/3B/%E7%AC%AC%E4%BA%8C%E5%8D%95%E5%85%83/7.%20%E9%B9%BF%E8%A7%92%E5%92%8C%E9%B9%BF%E8%85%BF.md
 ```
 
 ## Stats
@@ -61,10 +61,6 @@ curl -s https://raw.githubusercontent.com/RyanL1028/chinese-reading-corpus/main/
 - **~10,000 characters** of running text
 - **Poetry + prose + fables + idioms** — all major primary school genres
 
-## Source
+---
 
-Texts sourced from 义务教育教科书·语文 (PEP Edition, Ministry of Education of China). Cleaned and formatted for machine readability.
-
-## License
-
-The cleaned formatting and structure is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Original texts are from the public Chinese national curriculum.
+The content in these files is from the official syllabus of the Chinese government and belongs to them. I am only responsible for converting them into markdown format for public use.
