@@ -6,8 +6,8 @@ Open corpus of Chinese primary school reading texts from the PEP (人教版) Chi
 
 | Grade | Semester | Lessons | Units |
 |-------|----------|---------|-------|
-| 3A (三年级上册) | Semester 1 | 26 | 8 |
-| 3B (三年级下册) | Semester 2 | 6 | 2 |
+| 3A (三年级上册) | Semester 1 | 30 | 8 |
+| 3B (三年级下册) | Semester 2 | 36 | 8 |
 
 ## Structure
 
